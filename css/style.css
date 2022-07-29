@@ -1,0 +1,55 @@
+body{
+    background-color: #f5f3f3;
+}
+
+img{
+    width:100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.title-form{
+    text-align: center;
+}
+
+.credit{
+    text-align: center;
+    color:#b3b3b3
+}
+
+.champ{
+    background-color: #fff;
+    border:solid 1px;
+    border-radius: 15px;
+    border-color: #c9c9c9;
+    padding-top:10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color:#b3b3b3;
+
+}
+
+.form-control{
+    border:none;
+}
+
+.container{
+    width: 30%;
+    height:50%;
+}
+
+.email{
+    border-bottom: solid 1px #b3b3b3;
+}
+
+
+
+
+
+
+
+
+
+
